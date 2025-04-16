@@ -29,7 +29,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/security-incidence-response.git
+git clone - https://github.com/KarthikReddy1971/security-incidence-response-/tree/main
 cd security-incidence-response
 Install dependencies:
 
