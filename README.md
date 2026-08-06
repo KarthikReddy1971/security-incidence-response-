@@ -1,4 +1,3 @@
-Here is the complete `README.md` formatted in a single code block so you can copy and paste everything at once:
 
 ```markdown
 # 🛡️ SecureResponse — Security Incident Response System
@@ -8,9 +7,15 @@ Here is the complete `README.md` formatted in a single code block so you can cop
 ---
 
 ## 📸 Overview & Screenshots
+   Dashboard
+<img width="959" height="416" alt="image" src="https://github.com/user-attachments/assets/95e54ada-c94a-479c-b7e7-9ba62b85e475" />
+Incidents
+<img width="959" height="409" alt="image" src="https://github.com/user-attachments/assets/c88196bc-c053-4e3f-a42e-db6785c6641b" />
+Reports
+<img width="946" height="409" alt="image" src="https://github.com/user-attachments/assets/77199bb5-2aee-43bf-b0df-91bacaeac55f" />
+Settings
+<img width="959" height="410" alt="image" src="https://github.com/user-attachments/assets/8c690b7f-3046-4432-82fb-265a4218c53b" />
 
-![Security Dashboard Preview](./docs/screenshots/dashboard-preview.png)
-*Figure 1: Main Security Dashboard featuring real-time incident tracking, threat analytics, and quick status action items.* 📊✨
 
 ---
 
