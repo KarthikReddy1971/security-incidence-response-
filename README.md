@@ -1,5 +1,4 @@
 
-```markdown
 # 🛡️ SecureResponse — Security Incident Response System
 
 > An enterprise-grade, web-based platform designed for real-time monitoring, threat tracking, and automated reporting across organizational infrastructure. 🔒⚡
@@ -7,15 +6,18 @@
 ---
 
 ## 📸 Overview & Screenshots
-   Dashboard
-<img width="959" height="416" alt="image" src="https://github.com/user-attachments/assets/95e54ada-c94a-479c-b7e7-9ba62b85e475" />
-Incidents
-<img width="959" height="409" alt="image" src="https://github.com/user-attachments/assets/c88196bc-c053-4e3f-a42e-db6785c6641b" />
-Reports
-<img width="946" height="409" alt="image" src="https://github.com/user-attachments/assets/77199bb5-2aee-43bf-b0df-91bacaeac55f" />
-Settings
-<img width="959" height="410" alt="image" src="https://github.com/user-attachments/assets/8c690b7f-3046-4432-82fb-265a4218c53b" />
 
+### 📊 Dashboard
+![Dashboard Overview](https://github.com/user-attachments/assets/95e54ada-c94a-479c-b7e7-9ba62b85e475)
+
+### 🚨 Incidents View
+![Incidents Page](https://github.com/user-attachments/assets/c88196bc-c053-4e3f-a42e-db6785c6641b)
+
+### 📑 Reports & Analytics
+![Reports Page](https://github.com/user-attachments/assets/77199bb5-2aee-43bf-b0df-91bacaeac55f)
+
+### ⚙️ System Settings
+![Settings Page](https://github.com/user-attachments/assets/8c690b7f-3046-4432-82fb-265a4218c53b)
 
 ---
 
@@ -51,8 +53,6 @@ Ensure you have [Node.js](https://nodejs.org/) (v18 or higher) or [Bun](https://
 ```bash
 git clone [https://github.com/KarthikReddy1971/security-incidence-response-.git](https://github.com/KarthikReddy1971/security-incidence-response-.git)
 cd security-incidence-response-
-
-```
 
 ### 2️⃣ Install Dependencies
 
